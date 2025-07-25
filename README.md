@@ -67,15 +67,15 @@ I'm a passionate **Full Stack Web Developer** with extensive experience in moder
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marnel8&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marnel8&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marnel8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -102,7 +102,7 @@ I'm a passionate **Full Stack Web Developer** with extensive experience in moder
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marnel8&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -111,10 +111,10 @@ I'm a passionate **Full Stack Web Developer** with extensive experience in moder
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mharnhel-valentin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@_mrnlxdev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://marnel-valentin.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mharnhelvalentin@gmail.com)
 
 </div>
 
@@ -123,9 +123,9 @@ I'm a passionate **Full Stack Web Developer** with extensive experience in moder
 <div align="center">
   <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
   
-  <p>⭐️ From <a href="https://github.com/yourusername">Mhar Nhel Valentin</a></p>
+  <p>⭐️ From <a href="https://github.com/marnel8">Mhar Nhel Valentin</a></p>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=marnel8&color=brightgreen&style=flat-square&label=Profile+Views)
 </div>
 ```
 
@@ -151,4 +151,3 @@ This professional GitHub profile README includes:
 - Customize the typing animation text if desired
 
 The README showcases your expertise while maintaining a professional and engaging presentation that will definitely impress visitors to your GitHub profile!
-
