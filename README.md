@@ -127,27 +127,3 @@ I'm a passionate **Full Stack Web Developer** with extensive experience in moder
   
   ![Profile Views](https://komarev.com/ghpvc/?username=marnel8&color=brightgreen&style=flat-square&label=Profile+Views)
 </div>
-```
-
-This professional GitHub profile README includes:
-
-🎨 **Visual Appeal**:
-- Animated typing effect header
-- Organized sections with emojis
-- Professional badges and shields
-- GitHub stats and activity graphs
-
-📋 **Comprehensive Content**:
-- Professional introduction
-- Categorized tech stack with visual badges
-- Current learning goals and interests
-- Achievement highlights
-- Contact information
-
-🔧 **Customization Needed**:
-- Replace `yourusername` with your actual GitHub username
-- Update social media links with your actual profiles
-- Add your real email and portfolio website
-- Customize the typing animation text if desired
-
-The README showcases your expertise while maintaining a professional and engaging presentation that will definitely impress visitors to your GitHub profile!
