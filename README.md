@@ -1,4 +1,4 @@
-<a href="https://marnelvalentin.com">
+<a href="https://me.mvsoftwares.space">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/lens-data-ai.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/lens-software.svg">
@@ -7,8 +7,8 @@
 </a>
 
 <p align="center">
-  <a href="https://marnelvalentin.com"><img alt="Website" src="https://img.shields.io/badge/marnelvalentin.com-0F1720?style=flat-square&logo=googlechrome&logoColor=white"></a>
-  <a href="https://marnelvalentin.com/resume.pdf"><img alt="Download CV" src="https://img.shields.io/badge/Download%20CV-2952CC?style=flat-square&logo=readdotcv&logoColor=white"></a>
+  <a href="https://me.mvsoftwares.space"><img alt="Website" src="https://img.shields.io/badge/me.mvsoftwares.space-0F1720?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://me.mvsoftwares.space/resume.pdf"><img alt="Download CV" src="https://img.shields.io/badge/Download%20CV-2952CC?style=flat-square&logo=readdotcv&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mharnhel-valentin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0F1720?style=flat-square"></a>
   <a href="mailto:mharnhelvalentin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/mharnhelvalentin%40gmail.com-0F1720?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
@@ -172,10 +172,10 @@ After graduating, I joined training programs to deepen my software engineering a
 | | |
 |:--|:--|
 | **Email** | [mharnhelvalentin@gmail.com](mailto:mharnhelvalentin@gmail.com) |
-| **Website** | [marnelvalentin.com](https://marnelvalentin.com) |
-| **CV** | [resume.pdf](https://marnelvalentin.com/resume.pdf) |
+| **Website** | [me.mvsoftwares.space](https://me.mvsoftwares.space) |
+| **CV** | [resume.pdf](https://me.mvsoftwares.space/resume.pdf) |
 | **LinkedIn** | [in/mharnhel-valentin](https://www.linkedin.com/in/mharnhel-valentin) |
 | **X** | [@Tiomarrr](https://x.com/Tiomarrr) |
 | **Facebook** | [Marnel.Valentin.02](https://web.facebook.com/Marnel.Valentin.02/) |
 
-<sub>The banner follows your GitHub theme: light shows the software lens, dark shows the data science and AI lens, just like the switch on <a href="https://marnelvalentin.com">marnelvalentin.com</a>.</sub>
+<sub>The banner follows your GitHub theme: light shows the software lens, dark shows the data science and AI lens, just like the switch on <a href="https://me.mvsoftwares.space">me.mvsoftwares.space</a>.</sub>
