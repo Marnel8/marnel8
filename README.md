@@ -1,129 +1,115 @@
-<div align="center">
-  <h1>👋 Hi there, I'm Mhar Nhel Valentin</h1>
-  <h3>🚀 Full Stack Web Developer | 💻 Tech Enthusiast | 🌟 Problem Solver</h3>
-  
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Always+learning+new+things;Building+amazing+web+experiences" alt="Typing SVG" />
-  </p>
-</div>
+<a href="https://marnelvalentin.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/lens-data-ai.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/lens-software.svg">
+    <img alt="Marnel Valentin: full-stack developer, data science and AI" src="./assets/lens-software.svg" width="100%">
+  </picture>
+</a>
+
+<sub>Two lenses, like on <a href="https://marnelvalentin.com">marnelvalentin.com</a>. Switch GitHub between light and dark theme to change which one leads.</sub>
+
+<br>
+
+[Website](https://marnelvalentin.com) &nbsp;·&nbsp;
+[CV](https://marnelvalentin.com/resume.pdf) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/mharnhel-valentin) &nbsp;·&nbsp;
+[X](https://x.com/Tiomarrr) &nbsp;·&nbsp;
+[Email](mailto:mharnhelvalentin@gmail.com)
 
 ---
 
-## 🧑‍💻 About Me
+### Now
 
-I'm a passionate **Full Stack Web Developer** with extensive experience in modern web technologies. I love creating efficient, scalable, and user-friendly applications that solve real-world problems. Currently exploring the exciting worlds of **Blockchain Development** and **Artificial Intelligence**.
+| | |
+|---|---|
+| **University Research Associate I (Full Stack Web Developer)** | Batangas State University - STEERHUB, since Nov 2024 |
+| **Master of Science in Data Science** | Batangas State University - TNEU, since 2025 |
+| **Freelance Web Developer** | Remote, since Oct 2023 |
+| **Mhar - AI Agent Web Extension** | Ollama and Llama 3.2, since Apr 2025 |
 
-- 🔭 I'm currently working on full-stack web applications
-- 🌱 I'm currently learning **Blockchain Development** and **AI/ML**
-- 👯 I'm looking to collaborate on innovative web projects
-- 💬 Ask me about **React, Next.js, Node.js, or any web development topic**
-- ⚡ Fun fact: I enjoy turning complex problems into simple, beautiful solutions
+<br>
 
----
+## 01 — Software engineering
 
-## 🛠️ Tech Stack
+I build full-stack web applications in React, Next.js and Node.js, and lead full-stack development for Batangas State University’s STEERHUB platform.
 
-### Frontend Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-2952CC?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-2952CC?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-2952CC?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2952CC?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2952CC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2952CC?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2952CC?style=flat-square&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-2952CC?style=flat-square&logo=php&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-2952CC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2952CC?style=flat-square)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-2952CC?style=flat-square&logo=reactquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2952CC?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2952CC?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2952CC?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-2952CC?style=flat-square&logo=firebase&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-2952CC?style=flat-square&logo=appwrite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2952CC?style=flat-square&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-2952CC?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-2952CC?style=flat-square&logo=apache&logoColor=white)
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+| Project | What it is | Stack |
+|---|---|---|
+| **[uShop](https://steerhub.store)**<br><sub>Dec 2024 – Jan 2025</sub> | A multi-vendor e-commerce web application that allows users to buy and sell items on the Batangas State University campus. | Next.js · MySQL · Sequelize · TailwindCSS · Shadcn UI · Tanstack Query · TypeScript |
+| **[TRIOE](http://trioe.dev)**<br><sub>Nov 2024 – Present</sub> | A website platform for the Batangas State University's TRIOE initiative. | Next.js 15 · MySQL · Sequelize · TailwindCSS · Shadcn UI · Tanstack Query · TypeScript |
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br>
 
-### Databases & ORMs
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+## 02 — Data science and AI
 
-### Backend as a Service (BaaS)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
+I do exploratory analysis and forecasting in Python with Jupyter and R with RStudio, and AI integration such as RAG and LLM fine‑tuning, while studying for a Master of Science in Data Science.
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-0F2326?style=flat-square&logo=python&logoColor=6FE0BF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0F2326?style=flat-square&logo=jupyter&logoColor=6FE0BF)
+![R](https://img.shields.io/badge/R-0F2326?style=flat-square&logo=r&logoColor=6FE0BF)
+![RStudio](https://img.shields.io/badge/RStudio-0F2326?style=flat-square&logo=rstudioide&logoColor=6FE0BF)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0F2326?style=flat-square)
+![Forecasting](https://img.shields.io/badge/Forecasting-0F2326?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F2326?style=flat-square&logo=fastapi&logoColor=6FE0BF)
+![Ollama](https://img.shields.io/badge/Ollama-0F2326?style=flat-square&logo=ollama&logoColor=6FE0BF)
+![Llama 3.2](https://img.shields.io/badge/Llama%203.2-0F2326?style=flat-square&logo=meta&logoColor=6FE0BF)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-0F2326?style=flat-square&logo=claude&logoColor=6FE0BF)
+![Cursor](https://img.shields.io/badge/Cursor-0F2326?style=flat-square&logo=cursor&logoColor=6FE0BF)
+![Codex](https://img.shields.io/badge/Codex-0F2326?style=flat-square)
 
-### Testing
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+| Project | What it is | Stack |
+|---|---|---|
+| **[Mhar - AI Agent Web Extension](https://github.com/Marnel8/oracle)**<br><sub>Apr 2025 – Present</sub> | A web extension that allows users to interact with AI agents on any website. | HTML · CSS · JavaScript · Ollama · Llama 3.2 |
 
----
+<sub>Also: Figma · Photoshop · MS Office Suite</sub>
 
-## 📊 GitHub Stats
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marnel8&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+## Experience
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marnel8&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+| Role | Where | When |
+|---|---|---|
+| **University Research Associate I (Full Stack Web Developer)** | Batangas State University - STEERHUB | Nov 2024 – Present |
+| **Web Developer** | Freelance, Remote | Oct 2023 – Present |
+| **Layout Artist** | MPMPC, Mamburao | Oct 2023 – Nov 2024 |
+| **Software Developer Intern** | Batangas State University - DTC | Feb 2023 – May 2023 |
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marnel8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+## Education
 
----
+| Degree | School | When |
+|---|---|---|
+| **Master of Science in Data Science** | Batangas State University - TNEU | 2025 – Present |
+| **Bachelor of Science in Information Technology** | Batangas State University - TNEU | 2019 – 2023 |
 
-## 🎯 Current Focus
+<br>
 
-- 🔗 **Blockchain Development**: Exploring smart contracts and DeFi applications
-- 🤖 **Artificial Intelligence**: Learning ML algorithms and AI integration in web apps
-- 🚀 **Performance Optimization**: Always improving application speed and efficiency
-- 🧪 **Testing**: Implementing comprehensive testing strategies
+## Activity
 
----
-
-## 🏆 Achievements
-
-- ✅ Built and deployed multiple full-stack applications
-- ✅ Experienced with modern CI/CD pipelines
-- ✅ Proficient in both SQL and NoSQL databases
-- ✅ Strong understanding of containerization with Docker
-- ✅ Expertise in responsive and accessible web design
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marnel8&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mharnhel-valentin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@_mrnlxdev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://marnel-valentin.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mharnhelvalentin@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
-  
-  <p>⭐️ From <a href="https://github.com/marnel8">Mhar Nhel Valentin</a></p>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=marnel8&color=brightgreen&style=flat-square&label=Profile+Views)
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=marnel8&show_icons=true&count_private=true&border_radius=8&bg_color=0F2326&title_color=E6F2EF&text_color=B7CCC8&icon_color=6FE0BF&border_color=2C4A49">
+  <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=marnel8&show_icons=true&count_private=true&border_radius=8&bg_color=F6F7F9&title_color=0F1720&text_color=3B4552&icon_color=2952CC&border_color=D5DBE2">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=marnel8&border_radius=8&background=0F2326&border=2C4A49&stroke=2C4A49&ring=6FE0BF&fire=B9A6FF&currStreakNum=E6F2EF&sideNums=E6F2EF&currStreakLabel=6FE0BF&sideLabels=B7CCC8&dates=8EA9A4">
+  <img alt="GitHub streak" height="165" src="https://streak-stats.demolab.com?user=marnel8&border_radius=8&background=F6F7F9&border=D5DBE2&stroke=D5DBE2&ring=2952CC&fire=2952CC&currStreakNum=0F1720&sideNums=0F1720&currStreakLabel=2952CC&sideLabels=5A6472&dates=5A6472">
+</picture>
